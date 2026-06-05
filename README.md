@@ -1,7 +1,7 @@
 # Enterprise Sales & Financial Intelligence Dashboard Workspace
 
 ## Project Overview
-This repository contains a multi-page, interactive business intelligence dashboard designed to deliver actionable insights to corporate stakeholders. Built from transactional retail workflows, the [...]
+This repository contains a multi-page, interactive business intelligence dashboard designed to deliver actionable insights to corporate stakeholders. Built from transactional retail workflows, the workspace uses a structured layout strategy that separates high-level executive summaries from deeper regional and product-specific operational drill-downs.
 
 The dashboard is implemented in Power BI Desktop with a normalized star schema data model.
 
