@@ -28,14 +28,14 @@ Purpose: help regional sales managers and logistics directors identify where mar
 ├── README.md                      # Strategic project overview and usage notes
 ├── Executive_Sales_Workspace.pbix # Complete interactive Power BI dashboard workspace file
 ├── Executive_Summary_Deck.pptx    # Stakeholder slide deck summarizing core findings
-└── Screenshots/                   # Dashboard screenshot assets
+└── Screenshots/                   # Optional local staging area for screenshots before upload
 ```
 
 ## Dashboard Screenshots
-Add the two dashboard screenshots below once they are available:
+Use GitHub-hosted image URLs here once the screenshots are uploaded to the repository or copied to a public GitHub URL.
 
 ### Screenshot 1: Executive Overview
-![Executive Overview Screenshot](Screenshots/executive-overview.png)
+![Executive Overview Screenshot](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/Screenshots/executive-overview.png)
 
 ### Screenshot 2: Operational Drill-Down
-![Operational Drill-Down Screenshot](Screenshots/operational-drilldown.png)
+![Operational Drill-Down Screenshot](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/Screenshots/operational-drilldown.png)
