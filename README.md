@@ -27,7 +27,7 @@ Purpose: help regional sales managers and logistics directors identify where mar
 ```text
 ├── README.md                      # Strategic project overview and usage notes
 ├── Executive_Sales_Workspace.pbix # Complete interactive Power BI dashboard workspace file
-├── Executive_Summary_Deck.pptx    # Stakeholder slide deck summarizing core findings
+├── Superstore_Sales_Cleaned.csv    # Cleaned source data used for the dashboard model
 └── Screenshots/                   # Optional local staging area for screenshots before upload
 ```
 
