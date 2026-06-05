@@ -1,7 +1,7 @@
 # Enterprise Sales & Financial Intelligence Dashboard Workspace
 
 ## Project Overview
-This repository contains a multi-page, interactive business intelligence dashboard designed to deliver actionable insights to corporate stakeholders. Built from transactional retail workflows, the workspace uses a structured layout strategy that separates high-level executive summaries from deeper regional and product-specific operational drill-downs.
+This repository contains a multi-page, interactive business intelligence dashboard designed to deliver actionable insights to corporate stakeholders. Built from transactional retail workflows, the [...]
 
 The dashboard is implemented in Power BI Desktop with a normalized star schema data model.
 
@@ -35,9 +35,7 @@ Purpose: help regional sales managers and logistics directors identify where mar
 Use GitHub-hosted image URLs here once the screenshots are uploaded to the repository or copied to a public GitHub URL.
 
 ### Screenshot 1: Executive Overview
-![Executive Overview Screenshot](<img width="1376" height="775" alt="Screenshot 2026-06-05 152532" src="https://github.com/user-attachments/assets/1893b1a7-4c52-4519-971c-de5750055291" />
-)
+![Executive Overview Screenshot](https://github.com/user-attachments/assets/1893b1a7-4c52-4519-971c-de5750055291)
 
 ### Screenshot 2: Operational Drill-Down
-![Operational Drill-Down Screenshot](<img width="1374" height="775" alt="Screenshot 2026-06-05 152549" src="https://github.com/user-attachments/assets/84450c5d-38e5-48bb-916f-30e331763242" />
-)
+![Operational Drill-Down Screenshot](https://github.com/user-attachments/assets/84450c5d-38e5-48bb-916f-30e331763242)
